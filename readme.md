@@ -1,9 +1,11 @@
-# Learn AI
+# AImagination
 
-This project is a private project showing the next steps in learning, for example, Numpy and other libraries (including mathematics) to use them in the field of AI.
+AImagination is a laboratory for exploring, testing, and visualizing various AI and machine learning methods.  
+It combines ideas from statistical learning, computer vision, and mathematical modeling — created purely for curiosity, research, and fun.
 
-### Porjects
-In other repositories you can find projects based on these materials.
+## Goals
+- Experiment with classical and modern ML/AI techniques  
+- Build reusable tools for analysis, visualization, and data processing  
+- Connect mathematical concepts with real AI applications  
+- Learn and document progress through interactive notebooks  
 
-### Sources
-https://numpy.org/devdocs/user/basics.html
