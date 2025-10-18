@@ -1,0 +1,13 @@
+[project]
+name="AIbox"
+version="0.1.0"
+authors = [
+  {name="Piotrek-max"},
+]
+description="Labolatory for AI methods and applications"
+readme="README.md"
+requires-python=">=3.11"
+
+[project.urls]
+Homepage="https://github.com/Piotrek-max/AIbox"
+
